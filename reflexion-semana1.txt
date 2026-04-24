@@ -1,0 +1,10 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+
+En mi opinión, todos deberíamos ser capaces de manejar de forma responsable la información que vemos en internet, para evitar complicarnos o dañar a otras personas. Esto se relaciona con la participación ciudadana, ya que como usuarios también somos parte de una comunidad y nuestras acciones influyen en los demás.
+
+Por otro lado, al trabajar en un campo tecnológico es muy importante manejar la información de forma organizada y responsable. Cualquier trabajo, como una página web o proyecto, debe estar bien estructurado para que funcione correctamente.
+
+Para eso existen herramientas como Git y GitHub, que nos ayudan a organizar nuestro trabajo. Git permite gestionar los cambios desde el computador, y GitHub funciona como un repositorio donde podemos guardar nuestros proyectos en la nube, compartirlos o mantenerlos privados.
+
+En conjunto, todo esto muestra que ser un buen ciudadano digital también implica ser organizado y responsable con la información.

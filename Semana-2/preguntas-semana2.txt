@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta correcta: B
+Ejecutar comandos para interactuar con el sistema
+
+Pregunta 2:
+Respuesta correcta: B
+Muestra la ubicación actual dentro del sistema de carpetas
+
+Pregunta 3:
+Respuesta correcta: C
+Permite ver los archivos y carpetas dentro del directorio actual
+
+Pregunta 4:
+Respuesta correcta: B
+Permite crear una carpeta nueva desde la terminal

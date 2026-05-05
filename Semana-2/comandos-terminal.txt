@@ -1,0 +1,36 @@
+1. Verifiqué mi ubicación actual:
+   cd
+
+2. Listé las carpetas disponibles:
+   dir
+
+3. Entré a OneDrive donde estaba el escritorio:
+   cd OneDrive
+
+4. Busqué el escritorio:
+   dir
+   cd Escritorio
+
+5. Entré a mi proyecto:
+   cd PPP_Bella_Botello
+
+6. Verifiqué el contenido del proyecto:
+   dir
+
+7. Creé la carpeta de la semana 2:
+   mkdir Semana-2
+
+8. Entré a la carpeta creada:
+   cd Semana-2
+
+9. Creé los archivos necesarios:
+   type nul > preguntas-semana2.txt
+   type nul > comandos-terminal.txt
+   type nul > reflexion-semana2.txt
+
+   Nota: No utilicé el comando touch porque en la terminal de Windows (CMD) no está disponible. 
+   Por eso usé el comando type nul >, que permite crear archivos vacíos de manera equivalente.
+
+10. Verifiqué que todo se creó correctamente:
+    dir
+

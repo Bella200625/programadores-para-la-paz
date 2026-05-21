@@ -1,0 +1,5 @@
+Repositorio: Es un espacio donde guardas el código de un proyecto. Podemos decir que es como una carpeta, donde no solo guardas cosas, sino que también puedes controlar los cambios y las versiones. Permite ver los cambios que hacen los demás del equipo, por lo que facilita el trabajo en equipo en tiempo real.
+
+Commit: Es un punto donde puedes guardar un proyecto, dejando un mensaje para referenciar los cambios realizados. Esto te permite controlar y rastrear los cambios que se hacen en el código. Es importante si quieres mantener un orden en el desarrollo del proyecto.
+
+Push: Este comando te permite enviar los cambios locales a un repositorio remoto, con el fin de que tu equipo vea los cambios que realizaste en el proyecto, permitiendo una sincronización constante con el repositorio remoto.

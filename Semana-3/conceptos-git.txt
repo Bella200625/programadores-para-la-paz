@@ -1,5 +1,5 @@
-Repositorio: Es un espacio donde guardas el código de un proyecto. Podemos decir que es como una carpeta, donde no solo guardas cosas, sino que también puedes controlar los cambios y las versiones. Permite ver los cambios que hacen los demás del equipo, por lo que facilita el trabajo en equipo en tiempo real.
+Repositorio: Es una carpeta virtual donde se almacena todo el código de un proyecto. A diferencia de un directorio común, este registra el historial de versiones y cambios del equipo, facilitando la colaboración organizada en tiempo real.
 
-Commit: Es un punto donde puedes guardar un proyecto, dejando un mensaje para referenciar los cambios realizados. Esto te permite controlar y rastrear los cambios que se hacen en el código. Es importante si quieres mantener un orden en el desarrollo del proyecto.
+Commit: Es una confirmación que funciona como una "fotografía" del estado del proyecto en un momento específico. Permite guardar de forma segura los avances locales, requiriendo un mensaje descriptivo que facilita el rastreo de los cambios.
 
-Push: Este comando te permite enviar los cambios locales a un repositorio remoto, con el fin de que tu equipo vea los cambios que realizaste en el proyecto, permitiendo una sincronización constante con el repositorio remoto.
+Push: Es el comando que se encarga de subir y enviar las modificaciones guardadas localmente hacia el repositorio remoto en la nube. Su función principal es mantener el proyecto sincronizado para que todo el equipo tenga acceso al código más reciente.

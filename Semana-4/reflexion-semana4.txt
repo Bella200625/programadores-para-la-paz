@@ -1,0 +1,1 @@
+Las tecnologías abiertas como Node.js son importantes porque cualquier persona puede usarlas para crear páginas, sistemas o aplicaciones sin pagar licencias costosas. Esto permite que estudiantes, pequeños grupos o comunidades desarrollen soluciones para necesidades reales, además de aprender programación y compartir conocimientos con otras personas.

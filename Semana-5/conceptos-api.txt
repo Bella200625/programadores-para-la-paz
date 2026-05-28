@@ -1,0 +1,8 @@
+       EXPLICACIÓN DE CONCEPTOS DE API (SEMANA 5)
+
+
+1. ¿QUÉ HACE ESTA RUTA (POST /reporte)?
+Esta ruta está diseñada para recibir datos estructurados desde el cliente hacia el servidor. En lugar de enviar variables visibles en la URL (como hace GET), la ruta POST procesa el campo "mensaje" de forma interna a través del cuerpo (body) de la petición en formato JSON, respondiendo con una confirmación que valida que los datos llegaron correctamente al backend
+
+2. ¿PARA QUÉ PODRÍA SERVIR EN UNA APLICACIÓN COMUNITARIA?
+Esta ruta podría servir en una aplicación comunitaria para enviar reportes de daños, emergencias, problemas en una zona o alertas importantes compartidas por los ciudadanos.

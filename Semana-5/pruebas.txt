@@ -1,0 +1,24 @@
+
+               BITÁCORA - SEMANA 5
+
+1. Al acceder a http://localhost:3000
+   - Qué ocurre: El navegador realiza una petición GET a la raíz del servidor.
+   - Resultado: Muestra correctamente el texto "Servidor activo".
+
+
+
+2. Al acceder a http://localhost:3000/saludo
+   - Qué ocurre: El servidor procesa la petición GET en el endpoint de saludo.
+   - Resultado: El navegador muestra en pantalla el mensaje "Hola comunidad".
+
+
+
+3. Al acceder a http://localhost:3000/mensaje/Bella
+   - Qué ocurre: El servidor captura el parámetro dinámico de la URL (":nombre").
+   - Resultado: El navegador muestra el saludo personalizado "Hola Bella".
+
+
+
+4. Al acceder a http://localhost:3000/reporte (Ruta POST)
+   - Qué ocurre: Si se intenta abrir directamente en la barra del navegador, arroja el error "Cannot GET /reporte".
+   - Explicación: Esto ocurre porque el navegador por defecto siempre realiza peticiones de tipo GET. La ruta en el servidor está programada estrictamente como un método POST, por lo que el servidor rechaza la petición de lectura. Para probarla correctamente se requiere enviar un JSON en el cuerpo de la petición usando herramientas como Thunder Client, Postman o comandos curl.

@@ -1,0 +1,7 @@
+Primero probé la ruta GET /reportes utilizando curl y el servidor respondió con un array vacío ([]), lo que indicaba que todavía no había ningún reporte registrado.
+
+Después envié una petición POST con un reporte sobre la recolección de basura. El servidor respondió con un mensaje indicando que el reporte había sido registrado y le asignó el id 1.
+
+Finalmente volví a consultar la ruta GET y esta vez el reporte apareció dentro del array.
+
+Con esta prueba comprobé que los reportes sí se almacenan mientras el servidor está ejecutándose, pero si se detiene el servidor la lista vuelve a quedar vacía.

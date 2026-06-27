@@ -1,0 +1,13 @@
+Ejemplo 1
+
+{
+  "tipo": "Recolección de basura",
+  "descripcion": "El camión de la basura no ha pasado por el barrio desde hace varios días y ya se está acumulando basura en las calles."
+}
+
+Ejemplo 2
+
+{
+  "tipo": "Huecos en la vía",
+  "descripcion": "En la calle principal del barrio hay varios huecos que dificultan el paso de los vehículos y representan un riesgo para los motociclistas."
+}

@@ -1,0 +1,9 @@
+Esta actividad me ayudó a entender mejor cómo funcionan las rutas GET y POST dentro de una API.
+
+La semana pasada el servidor solo recibía la información y la devolvía como respuesta, pero ahora también la guarda en un array para poder consultarla después.
+
+Al hacer las pruebas pude ver que primero la lista estaba vacía y, después de enviar un reporte, ya aparecía almacenado cuando hice la consulta.
+
+También entendí que esa información solo permanece mientras el servidor está encendido, porque todavía no se está utilizando una base de datos.
+
+Aunque es un ejercicio sencillo, me permitió entender mejor cómo empieza a funcionar un sistema que registra información antes de pasar a una base de datos.

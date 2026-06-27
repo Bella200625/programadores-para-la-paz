@@ -1,0 +1,6 @@
+{
+  
+"tipo": "Recolección de basura",
+  
+"descripcion": "El camión de la basura no pasa por el barrio desde hace más de dos semanas, lo que ha generado acumulación de residuos y malos olores."
+}

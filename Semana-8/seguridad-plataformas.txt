@@ -1,0 +1,9 @@
+1. Utilizar autenticación en dos pasos para proteger las cuentas de los usuarios.
+
+2. Asignar permisos según el rol de cada persona para evitar accesos innecesarios.
+
+3. Realizar copias de seguridad periódicas para recuperar la información en caso de una falla.
+
+4. Mantener un registro de las actividades importantes para detectar comportamientos inusuales.
+
+5. Revisar y actualizar constantemente la configuración de seguridad para corregir posibles vulnerabilidades.

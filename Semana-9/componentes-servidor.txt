@@ -1,0 +1,19 @@
+Sistema operativo
+
+Un sistema operativo es el programa principal que tiene un computador. Es el encargado de que todo funcione correctamente, desde abrir programas hasta controlar los recursos del equipo. No solo existe en los computadores, también está presente en celulares y otros dispositivos.
+
+Node.js
+
+Node.js es un entorno que permite ejecutar código JavaScript fuera del navegador. Gracias a él podemos crear servidores y aplicaciones que respondan a las solicitudes de los usuarios.
+
+Aplicación server.js
+
+Es el archivo donde escribimos el código del servidor. Allí definimos las rutas que tendrá la aplicación y qué respuesta recibirá el usuario cuando ingrese a cada una de ellas.
+
+Puerto
+
+Un puerto es el lugar por donde el servidor recibe las solicitudes de los usuarios. En esta práctica utilizamos el puerto 3000 para acceder al servidor desde el navegador y realizar las pruebas.
+
+Logs
+
+Los logs son registros donde el servidor va guardando información sobre lo que ocurre mientras está funcionando. Son muy útiles porque ayudan a identificar errores y entender qué sucedió cuando se presenta algún problema.

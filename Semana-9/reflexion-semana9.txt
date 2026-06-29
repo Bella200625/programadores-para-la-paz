@@ -1,0 +1,9 @@
+Siempre he tenido en cuenta que, para ganarse la confianza de los usuarios, una plataforma debe funcionar correctamente. Si un servidor presenta muchos problemas o deja de funcionar constantemente, es muy difícil que las personas sigan confiando en ella, por muy buena que sea.
+
+Esta semana me permitió profundizar mucho más en ese tema. Tanto las clases pregrabadas como el material de apoyo que nos dejaron, las mesas técnicas y hasta la ayuda de los compañeros en Telegram me ayudaron a comprender mejor cómo funciona un servidor y por qué es tan importante mantenerlo estable.
+
+Si un servidor empieza a fallar constantemente, la comunidad poco a poco va perdiendo la confianza a dicho servidor y también a la plataforma. Muchas personas simplemente buscarán otra opción donde sepan que el servicio estará disponible cuando lo necesiten.
+
+También comprendí que no basta con que una aplicación funcione durante las pruebas. Es necesario revisar las configuraciones, controlar quién tiene acceso, monitorear el servidor y estar atentos a los errores para evitar problemas más adelante.
+
+Al final entendí que detrás de una plataforma que funciona bien hay un servidor que debe mantenerse estable y seguro para ofrecer un buen servicio y generar confianza en toda la comunidad.
